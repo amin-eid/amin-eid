@@ -1,4 +1,4 @@
-![Header](./github-header.png)
+
 <h1 align="center">Hi 👋, I'm Amin Eid</h1>
 <h3 align="center">A passionate full stack developer from Palestine</h3>
 
@@ -9,7 +9,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/amin-eid](https://github.com/amin-eid)
 
 - 💬 Ask me about **react, Python and Java**
-
+![Header](./github-header.png)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
